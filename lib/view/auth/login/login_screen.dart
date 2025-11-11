@@ -15,7 +15,7 @@ class _LoginScreenState extends State<LoginScreen> {
       appBar: AppBar(
         backgroundColor: AppColors.backgroundColor,
         centerTitle: true,
-        title: Image.asset('assets/logo/logo_black.bmp', height: 40),
+        title: Image.asset('assets/logo/logo-black.bmp', height: 40),
       ),
       body: SafeArea(
         child: Center(
